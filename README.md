@@ -1,9 +1,6 @@
 # Garage-Management-System-Salesforce
 A Salesforce-based Garage Management System for handling customer, appointment, and service operations
-Perfect ✅ Thanks, Tamil Mani!
-Here’s your **final customized README.md** for your **Shivani Engineering College – Salesforce Project (Garage Management System)** 👇
 
----
 
 # 🚗 Garage Management System (Salesforce Developer Project)
 
